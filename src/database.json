@@ -1,0 +1,59 @@
+{
+
+	"product": [{
+
+		"name": "Samsung Galaxy",
+
+		"category": "electronics"
+
+	}, {
+
+		"name": "Motorola V3",
+
+		"category": "electronics"
+
+	}, {
+
+		"name": "Motorola V4",
+
+		"category": "electronics"
+
+	}, {
+
+		"name": "Iphone 12",
+
+		"category": "electronics"
+
+	}, {
+
+		"name": "Skippy",
+
+		"category": "grocery store"
+
+	},{
+
+		"name": "Eggs",
+
+		"category": "grocery store"
+
+	},{
+
+		"name": "Milk",
+
+		"category": "grocery store"
+
+	},{
+
+		"name": "Soda",
+
+		"category": "grocery store"
+
+	},{
+
+		"name": "Apples",
+
+		"category": "grocery store"
+
+	}]
+
+}
